@@ -7,6 +7,9 @@ This repository documents real-world inference benchmarks for large language mod
 ### Arcee AI
 - [trinity-mini](./models/arcee-ai/trinity-mini/README.md)
 
+### IQuestLab
+- [iquest-coder-v1-40b-instruct](./models/iquestlab/iquest-coder-v1-40b-instruct/README.md)
+
 ### Meta Llama
 - [llama-3-3-70b](./models/meta-llama/llama-3-3-70b/README.md)
 
