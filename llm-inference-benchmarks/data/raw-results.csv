@@ -1,0 +1,25 @@
+Model,Hardware,Stack,Metric,Min,Mean,Max,P99
+arcee-ai/trinity-mini,Nvidia B200,OpenRouter,Time Taken (s),6.5521,9.1421,19.3534,21.8181
+arcee-ai/trinity-mini,Nvidia B200,OpenRouter,TTFT (s),3.4662,5.4128,14.3568,16.7630
+arcee-ai/trinity-mini,Nvidia B200,OpenRouter,Latency/Token (s),0.0066,0.0092,0.0194,0.0218
+arcee-ai/trinity-mini,Nvidia B200,OpenRouter,TPS,51.6705,117.0912,152.6238,152.9999
+arcee-ai/trinity-mini,Nvidia H200,Deploypad v1,Time Taken (s),10.3902,29.2859,48.1467,48.4794
+arcee-ai/trinity-mini,Nvidia H200,Deploypad v1,TTFT (s),0.5142,16.6687,37.8945,38.2475
+arcee-ai/trinity-mini,Nvidia H200,Deploypad v1,Latency/Token (s),0.0089,0.0212,0.0452,0.0502
+arcee-ai/trinity-mini,Nvidia H200,Deploypad v1,TPS,22.1024,61.0414,112.7113,113.8795
+arcee-ai/trinity-mini,Nvidia H200,Deploypad v2,Time Taken (s),9.1695,26.7381,45.2954,45.5770
+arcee-ai/trinity-mini,Nvidia H200,Deploypad v2,TTFT (s),0.5365,15.2635,35.1238,35.9826
+arcee-ai/trinity-mini,Nvidia H200,Deploypad v2,Latency/Token (s),0.0085,0.0196,0.0327,0.0329
+arcee-ai/trinity-mini,Nvidia H200,Deploypad v2,TPS,30.5602,64.6668,118.3266,119.3569
+arcee-ai/trinity-mini,Nvidia H200,Deploypad v3,Time Taken (s),11.8540,19.5799,29.3542,30.1038
+arcee-ai/trinity-mini,Nvidia H200,Deploypad v3,TTFT (s),0.5960,5.9271,14.6245,14.6980
+arcee-ai/trinity-mini,Nvidia H200,Deploypad v3,Latency/Token (s),0.0105,0.0143,0.0233,0.0244
+arcee-ai/trinity-mini,Nvidia H200,Deploypad v3,TPS,42.9576,75.6994,94.8351,95.5051
+arcee-ai/trinity-mini,Nvidia H200,Deploypad Final,Time Taken (s),9.3865,15.4469,24.3530,24.9137
+arcee-ai/trinity-mini,Nvidia H200,Deploypad Final,TTFT (s),0.5370,2.9265,12.3112,12.5272
+arcee-ai/trinity-mini,Nvidia H200,Deploypad Final,Latency/Token (s),0.0088,0.0105,0.0173,0.0173
+arcee-ai/trinity-mini,Nvidia H200,Deploypad Final,TPS,57.8701,114.5079,134.1837,134.8033
+arcee-ai/trinity-mini,Nvidia H200,VLLM,Time Taken (s),14.0301,17.1711,21.5182,21.9916
+arcee-ai/trinity-mini,Nvidia H200,VLLM,TTFT (s),0.6136,0.7055,0.8444,0.8525
+arcee-ai/trinity-mini,Nvidia H200,VLLM,Latency/Token (s),0.0114,0.0128,0.0136,0.0136
+arcee-ai/trinity-mini,Nvidia H200,VLLM,TPS,73.7567,77.9996,87.9719,90.6320
