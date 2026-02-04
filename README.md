@@ -7,6 +7,13 @@ This repository documents real-world inference benchmarks for large language mod
 ### Arcee AI
 - [trinity-mini](./models/arcee-ai/trinity-mini/README.md)
 
+### Meta Llama
+- [llama-3-3-70b](./models/meta-llama/llama-3-3-70b/README.md)
+
+### Mistral AI
+- [mistral-nemo](./models/mistralai/mistral-nemo/README.md)
+- [mistral-small-24b-instruct-2501](./models/mistralai/mistral-small-24b-instruct-2501/README.md)
+
 ## Methodology
 - [Metrics Definitions](./methodology/metrics.md)
 - [Time to First Token (TTFT)](./methodology/ttft.md)
