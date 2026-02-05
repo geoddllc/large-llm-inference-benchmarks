@@ -20,7 +20,7 @@ arcee-ai/trinity-mini model on Nvidia H200 using the Deploypad Final inference s
 | Metric | Min | Mean | Max | P99 |
 | :--- | :--- | :--- | :--- | :--- |
 | **Time Taken (s)** | 9.3865 | 15.4469 | 24.3530 | 24.9137 |
-| **TTFT (s)** | 0.5370 | 2.9265 | 12.3112 | 12.5272 |
+| **TTFT (s)** | 0.5370 | 1.0538 | 0.7581 | 1.1681 |
 | **Latency/Token (s)** | 0.0088 | 0.0105 | 0.0173 | 0.0173 |
 | **Tokens/Second** | 57.8701 | 114.5079 | 134.1837 | 134.8033 |
 
