@@ -26,7 +26,7 @@ meta-llama/llama-3-3-70b model on Nvidia H200 using the Deploypad Geodd inferenc
 
 ## Observations
 
-- Very high throughput (~90 TPS) for a 70B model, likely due to H200 hardware and fp16 precision.
+- Very high throughput (~90 TPS) for a 70B model
 - Low TTFT (~0.71s).
 
 ## Notes
